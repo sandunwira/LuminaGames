@@ -3,6 +3,10 @@
 	font-family: "Calibri", sans-serif;
 }
 
+html{
+	user-select: none;
+}
+
 body {
 	color: #fff;
 	height: 100vh;
