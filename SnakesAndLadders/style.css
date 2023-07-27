@@ -1,7 +1,3 @@
-html{
-	user-select: none;
-}
-
 @charset "UTF-8";
 /***** dice animation */
 @import url("https://fonts.googleapis.com/css?family=Dosis|Roboto");
@@ -46,6 +42,10 @@ input {
 
 #play-fx:checked~#game label:active~.fx-sound {
 	display: block;
+}
+
+html{
+	user-select: none;
 }
 
 body {
