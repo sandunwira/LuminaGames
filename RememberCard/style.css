@@ -5,6 +5,10 @@
 	font-family: "Poppins", sans-serif;
 }
 
+html{
+	user-select: none;
+}
+
 body {
 	background: #242424;
 }
