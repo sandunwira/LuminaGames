@@ -1,3 +1,7 @@
+html{
+	user-select: none;
+}
+
 body {
 	background: linear-gradient(45deg, #29323C, #5C6D7F);
 	font-family: "Calibri", sans-serif;
